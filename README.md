@@ -13,3 +13,6 @@
 
 ## 5G & LDPC
  - [A Vision for 5G Channel Coding](https://eprints.soton.ac.uk/401809/1/WhitePaper2.pdf)
+
+## 5G LDPC FPGA
+ - [Intel User Guide](https://www.intel.sg/content/dam/www/programmable/us/en/pdfs/literature/ug/ug_5g_ldpc.pdf)
