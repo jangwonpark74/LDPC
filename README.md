@@ -19,5 +19,6 @@
  - [Advances in Error Control Strategies for 5G](https://centers.njit.edu/cwcspr/sites/cwcspr/files/Joerg%20Kliewer.pdf)
  - [5G NR LDPC](https://www.etsi.org/deliver/etsi_ts/138200_138299/138212/15.02.00_60/ts_138212v150200p.pdf)
 
-## 5G LDPC FPGA
+## 5G LDPC FPGA\
+ - [Hardware design of LDPC](https://infoscience.epfl.ch/record/222437/files/EPFL_TH7297.pdf)
  - [Intel User Guide](https://www.intel.sg/content/dam/www/programmable/us/en/pdfs/literature/ug/ug_5g_ldpc.pdf)
