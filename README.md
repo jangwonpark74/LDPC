@@ -11,6 +11,7 @@
  - [Error Floors of LDPC Codes](https://web.stanford.edu/class/ee388/papers/ErrorFloors.pdf)
  - [Threshold Saturation via Spatial Coupling: Why Convolutional LDPC Ensembles Perform So Well over the BEC](https://web.stanford.edu/class/ee388/papers/bec_coupling.pdf)
  - [ME-LDPC](http://wiiau4.free.fr/pdf/Multi-Edge%20Type%20LDPC%20Codes.pdf)
+ - [ME-LDPC Thesis](https://tspace.library.utoronto.ca/bitstream/1807/31659/1/Zhang_Lei_201111_MASc_thesis.pdf)
 
 ## 5G & LDPC
  - [5G NR에 담긴 5가지 혁신 기술](https://m.post.naver.com/viewer/postView.nhn?volumeNo=11764280&memberNo=20717909) 
