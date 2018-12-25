@@ -10,6 +10,7 @@
  - [Near Shannon Limit Performance of Low Density Parity Check Chodes, by David J.C. MacKay](https://pdfs.semanticscholar.org/91f2/db313ccc16cdcdc7206a35bb39d2f0d33c46.pdf)
  - [Error Floors of LDPC Codes](https://web.stanford.edu/class/ee388/papers/ErrorFloors.pdf)
  - [Threshold Saturation via Spatial Coupling: Why Convolutional LDPC Ensembles Perform So Well over the BEC](https://web.stanford.edu/class/ee388/papers/bec_coupling.pdf)
+ - [ME-LDPC](http://wiiau4.free.fr/pdf/Multi-Edge%20Type%20LDPC%20Codes.pdf)
 
 ## 5G & LDPC
  - [5G NR에 담긴 5가지 혁신 기술](https://m.post.naver.com/viewer/postView.nhn?volumeNo=11764280&memberNo=20717909) 
