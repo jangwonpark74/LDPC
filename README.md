@@ -12,6 +12,7 @@
  - [Threshold Saturation via Spatial Coupling: Why Convolutional LDPC Ensembles Perform So Well over the BEC](https://web.stanford.edu/class/ee388/papers/bec_coupling.pdf)
 
 ## 5G & LDPC
+ - [5G NR에 담긴 5가지 혁신 기술](https://m.post.naver.com/viewer/postView.nhn?volumeNo=11764280&memberNo=20717909) 
  - [A Vision for 5G Channel Coding](https://eprints.soton.ac.uk/401809/1/WhitePaper2.pdf)
  - [Advances in Error Control Strategies for 5G](https://centers.njit.edu/cwcspr/sites/cwcspr/files/Joerg%20Kliewer.pdf)
  - [5G NR LDPC](https://www.etsi.org/deliver/etsi_ts/138200_138299/138212/15.02.00_60/ts_138212v150200p.pdf)
